@@ -9,4 +9,4 @@ if(a>18)
     printf("a è maggiorenne\n");
 }
 if(a<18)
-00000232690 m }
+ }

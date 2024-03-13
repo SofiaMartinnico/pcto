@@ -1,7 +1,13 @@
-muori
-bene
-`MI DAI UN FAZZOLETTO BENE 
-PER FAVORE ``? ;)
-SASSO
+#include <stdio.h>
 
-SEI UNA CUNNA TR
+int main ()
+{
+ int a = 17;
+
+if(a>18)
+{
+    printf("a è maggiorenne\n");
+}
+if(a<18)
+    printf("a è mainorenne\n");
+{

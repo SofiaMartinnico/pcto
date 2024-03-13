@@ -2,18 +2,11 @@
 
 int main ()
 {
-    int a = 12
-    int b = 5
-    int c = 12
-    if (a == b && b == c)
+    char parola[5] = {'c','i','a','o'};
+    int b = 0;
+    while(parola[b]!='\0')
     {
-        printf("la figura corrisponde ad un triangolo equilatero\n");
+        scanf("%c", &parola[b]);
+        b = b + 1;
     }
-    else if(a == b && b!= c)
-    {
-        printf("il triangolo é isoscele\n");
-    }
-
-    else if(b == c && c!= a);
 }
-    

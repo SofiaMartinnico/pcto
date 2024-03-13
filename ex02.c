@@ -4,7 +4,7 @@ int main()
 {
 int sofia = 8;
 int sofia1;
-printf("ciao\n")
+printf("ciao\n");
 sofia1 = 5;
 
 }
