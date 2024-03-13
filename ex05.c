@@ -10,7 +10,7 @@ printf ( "è maggiore di 18\n" )"
 }
 else
 {
-printf ( "è minore di 18"\n" )
+printf ("è minore di 18"\n")
 }
 
 }
